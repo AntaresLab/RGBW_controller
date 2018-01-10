@@ -24,3 +24,6 @@
 !/Hardware/Output/BOM
 /Hardware/Output/BOM/*
 !/Hardware/Output/BOM/*.XLS
+!/Hardware/Output/3D Prints
+/Hardware/Output/3D Prints/*
+!/Hardware/Output/3D Prints/*.PNG
