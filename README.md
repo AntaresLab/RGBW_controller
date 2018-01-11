@@ -1,5 +1,7 @@
 # RGBW_controller
-![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller.png)
+![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller_top.png)
+
+![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller_bottom.png)
 ***
 This PCB designed for the LED strips controlling.
 
@@ -23,7 +25,7 @@ MCU programms via the SWIM interface (X2).
 
 There is a STM8S105K4 MCU used in this board.
 
-PCB dimensions are 33x54mm. Maximal height of the components above the PCB is 10mm on top side and 2mm (excluding the components pins) on bottom side.
+PCB dimensions are 33x54mm. Maximal height of the components above the PCB is 10mm on top side and 2mm (excluding the top side components pins) on bottom side.
 
 Mounting holes are designed for M3 screws. The distances between them are 25x46mm. Distance between the center of the mounting hole and the nearest edge of the board is 4mm.
 
