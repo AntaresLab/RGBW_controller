@@ -1,5 +1,7 @@
 *
 !.gitignore
+!README.md
+!Change log
 !/Hardware
 /Hardware/*
 !/Hardware/*.DsnWrk
