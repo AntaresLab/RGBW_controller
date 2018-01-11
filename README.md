@@ -1,5 +1,5 @@
 # RGBW_controller
-![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D Prints/RGBW_controller.png)
+![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller.png)
 ***
 This PCB designed for the LED strips controlling.
 It allows to control 4 channnels of LED strips or another similar-controlled loads.
