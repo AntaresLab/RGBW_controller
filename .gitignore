@@ -2,30 +2,28 @@
 !.gitignore
 !README.md
 !Change log
-!/Hardware
-/Hardware/*
-!/Hardware/*.DsnWrk
-!/Hardware/*.PrjPcb
-!/Hardware/*.SchDoc
-!/Hardware/*.PcbDoc
-!/Hardware/*.OutJob
-!/Hardware/*.PDF
-!/Hardware/Output
-/Hardware/Output/*
-!/Hardware/Output/Gerber
-/Hardware/Output/Gerber/*
-!/Hardware/Output/Gerber/*.GTL
-!/Hardware/Output/Gerber/*.GBL
-!/Hardware/Output/Gerber/*.GTO
-!/Hardware/Output/Gerber/*.GBO
-!/Hardware/Output/Gerber/*.GTS
-!/Hardware/Output/Gerber/*.GBS
-!/Hardware/Output/NC Drill
-/Hardware/Output/NC Drill/*
-!/Hardware/Output/NC Drill/*.TXT
-!/Hardware/Output/BOM
-/Hardware/Output/BOM/*
-!/Hardware/Output/BOM/*.XLS
-!/Hardware/Output/3D_Prints
-/Hardware/Output/3D_Prints/*
-!/Hardware/Output/3D_Prints/*.PNG
+!*.DsnWrk
+!*.PrjPcb
+!*.SchDoc
+!*.PcbDoc
+!*.OutJob
+!*.PDF
+!/Output
+/Output/*
+!/Output/Gerber
+/Output/Gerber/*
+!/Output/Gerber/*.GTL
+!/Output/Gerber/*.GBL
+!/Output/Gerber/*.GTO
+!/Output/Gerber/*.GBO
+!/Output/Gerber/*.GTS
+!/Output/Gerber/*.GBS
+!/Output/NC Drill
+/Output/NC Drill/*
+!/Output/NC Drill/*.TXT
+!/Output/BOM
+/Output/BOM/*
+!/Output/BOM/*.XLS
+!/Output/3D_Prints
+/Output/3D_Prints/*
+!/Output/3D_Prints/*.PNG
