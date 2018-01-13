@@ -30,14 +30,24 @@ PCB dimensions are 33x54mm. Maximal height of the components above the PCB is 10
 Mounting holes are designed for M3 screws. The distances between them are 25x46mm. Distance between the center of the mounting hole and the nearest edge of the board is 4mm.
 
 ***
-If you have a successful experience of using this board with components other than listed in BOM-list, or with the exceeding the declared parameters, please notify me so that I can reflect it here.
+I will be glad to any contribution to the development of my projects.
 
-If you found any inaccuracies or mistakes, please notify me of them.
+If you will find any mistakes or inaccuracies in my projects, please notify me about that.
+
+I will be glad, if you modify, impove or port my projects to another CADs. Please notify me if you do this, and I will mention here about that.
+
+If you have a successful experience of using this board with components other than listed in BOM-list, or with the exceeding the declared parameters, please notify me so that I can reflect it here.
 
 If you develop any firmware for this board, please notify me of it, and I will post here a link to your project.
 
 If you develop another version of this board, please notify me of it to document your branch or post a link to your branch here.
+
 ***
 All schematics and board design files here are Copyright (c) 2018 AntaresLab aka Sergey Starovoitov serega.starovoitov@mail.ru.
 
 Provided under the GNU GPL v3.
+
+***
+## Known firmware for this RGBW controller
+
+* [RGB strip-based mood lamp](https://github.com/AntaresLab/Mood_lamp)
