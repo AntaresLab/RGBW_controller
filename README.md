@@ -1,7 +1,7 @@
 # RGBW_controller
-![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller_top.png)
+![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Output/3D_Prints/RGBW_controller_top.png)
 
-![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Hardware/Output/3D_Prints/RGBW_controller_bottom.png)
+![Image alt](https://github.com/AntaresLab/RGBW_controller/raw/master/Output/3D_Prints/RGBW_controller_bottom.png)
 ***
 This PCB designed for the LED strips controlling.
 
